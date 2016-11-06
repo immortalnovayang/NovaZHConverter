@@ -4,7 +4,9 @@
 將簡體文字和繁體文字互轉，並且套用對應的遊戲王專有名詞  
 
 採用Lib:  
-https://github.com/opentalking/java-zhconverter-read-only
+https://github.com/opentalking/java-zhconverter-read-only  
+繁簡轉換核心，已包含在NovaZHConverter.jar，NovaZHConverter.jar可直接執行  
+如需重新編譯請另外下載此專案的ZHConverter.jar並import到專案中  
 
 採用專用名詞:  
 https://github.com/salix5/CardEditor/blob/master/data.txt
